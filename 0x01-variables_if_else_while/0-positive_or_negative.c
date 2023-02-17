@@ -26,13 +26,12 @@ int main(void)
 	}
 	else if (n == o)
 	{
-	printf("%d is zero\n",n);
-	
+	printf("%d is zero\n", n);
 	}
 	else
 	{
 
-	printf("%d is negative\n",n);
+	printf("%d is negative\n", n);
 
 	}
 	return (o);
