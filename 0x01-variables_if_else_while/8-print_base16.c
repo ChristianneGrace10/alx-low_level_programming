@@ -9,7 +9,8 @@
 
 int main(void)
 
-{	int d;
+{
+	int d;
 	char low;
 
 	for (d = '0'; d <= '9'; d++)
@@ -19,4 +20,5 @@ int main(void)
 	putchar(low);
 	putchar('\n');
 
-}	return (0);	
+	return (0);
+}
