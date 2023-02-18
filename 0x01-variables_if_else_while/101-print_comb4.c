@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 /**
  * main - prints all possible  combinations of three different digits,
  *        in ascending order, separated by a comma followed by a  space.
