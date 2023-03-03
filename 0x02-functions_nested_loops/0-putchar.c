@@ -1,11 +1,12 @@
 #include "main.h"
 
 /**
- * main - _putchar: print the elements _putchar
+ * main - main function
+ * _putchar: print the elements _putchar
  * Return: always 0
  */
 
-int_putchar(char c)
+int main(void)
 {
 	_putchar('_');
 	_putchar('p');
